@@ -1,5 +1,5 @@
 {
-  "name": "@candlefinance/ts-node",
+  "name": "ts-node",
   "version": "10.9.1",
   "description": "TypeScript execution environment and REPL for node.js, with source map support",
   "main": "dist/index.js",
@@ -82,7 +82,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/candlefinance/ts-node.git"
+    "url": "git://github.com/TypeStrong/ts-node.git"
   },
   "keywords": [
     "typescript",
